@@ -10,7 +10,7 @@ A API foi desenvolvida usando Node.js, Express e MongoDB. Para a realização de
 
 A arquitetura do API foi inspirada no design pattern MVC (Model, View e Controller), com algumas adaptações em sua estrutura.
 
-Para saber mais: https://www.geeksforgeeks.org/mvc-design-pattern/
+Para saber mais, [clique aqui](https://www.geeksforgeeks.org/mvc-design-pattern/) 
 
 ### Endpoints
 
